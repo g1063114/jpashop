@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import javax.validation.Valid;
 import java.util.List;
 
+// rest api 활용 적용 예정
+
 @Controller
 @RequiredArgsConstructor
 public class MemberController {
